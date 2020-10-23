@@ -1,2 +1,2 @@
-# Simplilearn
-Project's of Simplilearn of Deep learning &amp; Machine learning certification
+# Machine learning & data analytics
+All Machine learning & data analytic projects
